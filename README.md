@@ -1,4 +1,4 @@
-# Olá, eu sou Luis Gustavo Barreto Garrido!
+# Olá, eu sou Luís Gustavo!
 
 **Sobre Mim**  
 Sou estudante de **Engenharia de Software** na FIAP e atualmente trabalho como **Estagiário em Análise de Dados | Business Intelligence** no **C6 Bank**. Onde atuo com análise de dados, criação de dashboards e geração de insights para tomada de decisão.
